@@ -29,8 +29,7 @@ I specialize in developing decentralized applications, smart contracts, and inte
 ### 📫 How to Reach Me:
 
 - [LinkedIn](https://www.linkedin.com/in/mariadovnar/)
-- [Twitter](https://twitter.com/your-account)
-- [Email](mailto:cmo@depotly.io)
+- [Email](mailto:marialtlife@gmail.com)
 
 ---
 
