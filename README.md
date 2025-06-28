@@ -31,10 +31,6 @@ I specialize in developing decentralized applications, smart contracts, and inte
 - [LinkedIn](https://www.linkedin.com/in/mariadovnar/)
 - [Email](mailto:marialtlife@gmail.com)
 
----
 
-### 💬 Open to Collaboration:
-
-I'm always looking for exciting projects and challenges in blockchain and AI. Feel free to reach out to discuss ideas, potential collaborations, or development opportunities!
 
 
